@@ -1,5 +1,5 @@
-<h1> Pavel Samardak
-<h2> Contacts
+# Pavel Samardak
+## Contacts
 * __Location:__ Russia, Belgorod
 * __Phone:__ +7 999 602 60 16
 * __Email:__ psamardak00@gmail.com
