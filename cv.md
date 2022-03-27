@@ -26,3 +26,6 @@ function fakeBin(x){
   return str;
 }
 ```
+## Language
+* __Russian -__ native speaker
+* __English -__ B1 (in the midst of exploring)
